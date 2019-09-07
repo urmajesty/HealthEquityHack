@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AvidDabbler/HealthEquityHack/issues"
   },
-  "homepage": "https://github.com/AvidDabbler/HealthEquityHack#readme"
+  "homepage": "https://github.com/AvidDabbler/HealthEquityHack#readme",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
 }
